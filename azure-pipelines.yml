@@ -22,9 +22,9 @@ steps:
 
 
 - task: ArchiveFiles@2
-  displayName: 'Archive my-app/dist'
+  displayName: 'dist'
   inputs:
-    rootFolderOrFile: 'my-app/build'
+    rootFolderOrFile: 'build'
     includeRootFolder: false
 
 - task: PublishBuildArtifacts@1
