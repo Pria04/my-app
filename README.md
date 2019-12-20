@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/yadavp/my-app-test-pipeline/_apis/build/status/Pria04.my-app%20(6)?branchName=master)](https://dev.azure.com/yadavp/my-app-test-pipeline/_build/latest?definitionId=9&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
